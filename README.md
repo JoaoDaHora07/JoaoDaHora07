@@ -6,7 +6,6 @@ A passionate developer focused on building efficient software solutions, working
 
 ### 🔭 Current Focus
 * Currently working on the **SARP** project.
-* Always open to collaborating on open-source projects and new ideas.
 
 ---
 
